@@ -1,0 +1,24 @@
+{
+  "name": "coffee-test-with-mocha",
+  "version": "0.0.1",
+  "description": "coffee-test-with-mocha ======================",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hryoichi/coffee-test-with-mocha.git"
+  },
+  "dependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "coffee-script": "*"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
